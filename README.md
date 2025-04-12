@@ -29,13 +29,7 @@ This project implements **real-time car detection** using computer vision techni
 ## 📁 Project Structure
 
 ```bash
-live-car-detection/
-├── car_detection_haar.py
-├── video_input.mp4  # (optional input video)
-├── models/
-│   └── cars.xml     # Haar cascade model
-├── requirements.txt
-└── README.md
+
 
 
 ⚙️ Setup Instructions
